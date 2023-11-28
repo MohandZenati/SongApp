@@ -1,0 +1,11 @@
+.songs {
+  position: fixed;
+  top: 24px;
+  left: 24px;
+  display: flex;
+  flex-direction: column;
+  row-gap: 12px;
+  width: auto;
+  padding: 20px 20px;
+  border-radius: 10px;
+}
